@@ -23,7 +23,7 @@
 		<spring.data.jpa.version>1.11.22.RELEASE</spring.data.jpa.version>
 		<cglib.version>2.1_3</cglib.version>
 
-		<mysql.version>8.0.27</mysql.version>
+		<mysql.version>8.0.31</mysql.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate-validator.version>6.0.19.Final</hibernate-validator.version>
 		<druid-version>1.0.6</druid-version>
